@@ -33,6 +33,11 @@ const componentsStyle = {
   },
   textCenter: {
     textAlign: "center"
+  },
+  responseLogo: {
+    maxWidth: "100%",
+    height: "auto",
+    textAlign: "center"
   }
 };
 

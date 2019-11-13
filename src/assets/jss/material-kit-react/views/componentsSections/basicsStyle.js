@@ -16,6 +16,13 @@ const basicsStyle = {
     height: "50px",
     display: "block"
   },
+  test: {
+    textAlign: "center!important",
+    fontSize: "100px"
+  },
+  testCenter: {
+    textAlign: "center!important"
+  },
   space70: {
     height: "70px",
     display: "block"
